@@ -8,7 +8,7 @@ Therfore thank you for reading the readme!
 and uh... oh yea, here's my info
 
 Github user page:
-http://github.com/unburrtio.github.io
+https://github.com/unburrtio.github.io
 
 Github Pages repo is at :
 https://github.com/unburrito/unburrito.github.io
