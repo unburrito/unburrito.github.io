@@ -8,10 +8,10 @@ Therfore thank you for reading the readme!
 and uh... oh yea, here's my info
 
 Github user page:
-http://github.com/unburrtio/
+http://github.com/unburrtio
 
 Github Pages repo is at :
-http://github.com/unburrito/unburrito.io/
+http://github.com/unburrito/unburrito.io
 
 Customized homepage:
 http://unburrito.github.io/
