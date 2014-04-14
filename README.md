@@ -14,4 +14,4 @@ Github Pages repo is at :
 https://github.com/unburrito/unburrito.io/
 
 Customized homepage:
-https://unburrtio.github.io/
+http://unburrtio.github.io/
