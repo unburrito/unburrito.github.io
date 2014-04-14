@@ -11,7 +11,7 @@ Github user page:
 http://github.com/unburrtio
 
 Github Pages repo is at :
-http://github.com/unburrito/unburrito.io
+https://github.com/unburrito/unburrito.github.io
 
 Customized homepage:
 http://unburrito.github.io/
